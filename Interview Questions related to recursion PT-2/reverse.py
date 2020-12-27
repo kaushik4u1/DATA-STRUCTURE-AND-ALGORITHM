@@ -1,6 +1,3 @@
-#   Created by Elshad Karimov 
-#   Copyright © AppMillers. All rights reserved.
-
 # reverse Solution
 
 
