@@ -9,4 +9,8 @@ def accessElement(array,index):
     else:
          print(array[index])
 
-accessElement(arr1,index)         
+accessElement(arr1,index)      
+
+Time Complexity:O(1)
+    
+Space Complexity:O(1)    
