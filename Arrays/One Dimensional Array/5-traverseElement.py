@@ -8,5 +8,5 @@ def searchElement(array):
          print(i)
 searchElement(arr1) 
 
-Time Complexity:O(n)
-Space Complexity:O(1)
+#Time Complexity:O(n)
+#Space Complexity:O(1)
