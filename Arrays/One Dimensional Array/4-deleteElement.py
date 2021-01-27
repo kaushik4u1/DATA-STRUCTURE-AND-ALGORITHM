@@ -10,5 +10,5 @@ arr1.remove(value)
 # Updated arr1 List
 print('Updated arr1 list: ', arr1)
 
-Time Complexity:O(n)
-Space Complexity:O(1)
+#Time Complexity:O(n)
+#Space Complexity:O(1)
