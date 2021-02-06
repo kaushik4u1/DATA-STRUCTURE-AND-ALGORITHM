@@ -20,4 +20,4 @@ print(productlist)
 #       [11, 1, 2, 3, 4, 5, 6, 7, 8, 55, 'Milk', 'Salt', 'Rice']
 
 #Time Complexity:O(n) (for append time complexity will be O(1))
-#Space Complexity:O(n) 
+#Space Complexity:O(n) (for append and insert space complexity will be O(1))
