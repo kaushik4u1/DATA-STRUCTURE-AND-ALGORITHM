@@ -1,6 +1,6 @@
 # Calculate Average Temperature
 
-numDays = int(input("How many day's temperature?"))
+numDays = int(input("How much day(s) temperature?"))
 total = 0
 nextDays=0
 for i in range(1,numDays+1):
@@ -8,6 +8,10 @@ for i in range(1,numDays+1):
     total += nextDays
     
     
-avg = round(total/numDays,2)
-
+avg = round(total/numDays,2)    
 print("The average is: " +str(avg))
+
+#Output: How much day(s) temperature?2
+#        Day 1's high temp:3
+#        Day 2's high temp:4
+#        The average is: 3.5
