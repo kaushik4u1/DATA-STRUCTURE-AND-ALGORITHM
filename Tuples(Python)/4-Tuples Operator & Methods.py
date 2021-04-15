@@ -62,6 +62,16 @@ print(myTuple.index(3)) #index() method searches for the given element in a tupl
 #Time Complexity:O(1)
 #Space Complexity:O(1)
 
+#3- tuple function
+
+myTuple = [1,3,4,5,7,8]
+
+print(tuple(myTuple)) #tuple() function is used to convert the list into tuples.
+
+#Output:(1, 3, 4, 5, 7, 8)
+
+#Time Complexity:O(1)
+#Space Complexity:O(1)
 
 
 
